@@ -1,0 +1,61 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "alien-biomes",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships",
+      "enabled": true
+    },
+    
+    {
+      "name": "cargo-ships-graphics",
+      "enabled": true
+    },
+    
+    {
+      "name": "Dectorio",
+      "enabled": true
+    },
+    
+    {
+      "name": "factoryplanner",
+      "enabled": false
+    },
+    
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    
+    {
+      "name": "RateCalculator",
+      "enabled": false
+    },
+    
+    {
+      "name": "Todo-List",
+      "enabled": true
+    },
+    
+    {
+      "name": "vtk-deep-core-mining",
+      "enabled": true
+    },
+    
+    {
+      "name": "Waterfill_v17",
+      "enabled": false
+    }
+  ]
+}
